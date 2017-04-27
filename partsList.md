@@ -1,7 +1,8 @@
 # Traffic Monitor Parts List
 
 ## Adafruit Feather Logger
-[Adafruit ![Feather Logger](docs/feather.png)](https://www.adafruit.com/product/2795)
+[Adafruit ](https://www.adafruit.com/product/2795)
+[![Feather Logger](docs/feather.png)](https://www.adafruit.com/product/2795)
 
 ## Real Time Clock
 ###### SunFounder DS3231 RTC Real Time Clock Module
