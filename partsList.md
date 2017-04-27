@@ -1,9 +1,9 @@
 # Traffic Monitor Parts List
 
 ## Adafruit Feather Logger
-[Adafruit][feather]
-[![Feather Logger](docs/feather.png)][feather]
-[feather]: https://www.adafruit.com/product/2795
+[Adafruit ![Feather Logger](docs/feather.png)](https://www.adafruit.com/product/2795)
+
+
 
 ## Real Time Clock
 ###### SunFounder DS3231 RTC Real Time Clock Module High Precision for Raspberry Pi Arduino R3 Mega 2560
